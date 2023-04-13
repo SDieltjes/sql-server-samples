@@ -34,3 +34,5 @@ steps:
     targetPath: '$(Build.ArtifactStagingDirectory)'
     artifact: 'SQLDW'
     publishLocation: 'pipeline'
+    
+    error
